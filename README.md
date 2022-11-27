@@ -1,2 +1,2 @@
 # didactic-tribble
-Simple CLI ATM machine 
+Simple CMS based on PHP Without using any PHP frameworks.
